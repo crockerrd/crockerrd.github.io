@@ -1,23 +1,23 @@
 #imperium {
-  color: darkblue;
+  background-color: darkblue;
 }
 
 #orks {
-  color: darkgreen;
+  background-color: darkgreen;
 }
 
 #chaos {
-  color: darkred;
+  background-color: darkred;
 }
 
 #tyranid {
-  color: brown;
+  background-color: brown;
 }
 
 #eldar {
-  color: yellow;
+  background-color: yellow;
 }
 
 #darkEldar {
-  color: purple;
+  background-color: purple;
 }
