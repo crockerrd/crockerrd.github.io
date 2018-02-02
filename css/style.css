@@ -1,3 +1,5 @@
+
+
 #imperium {
   background-color: darkblue;
 }
@@ -20,4 +22,16 @@
 
 #darkEldar {
   background-color: purple;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia;
+  color: black;
+  font-weight: bold;
+}
+
+h2 {
+  color: white;
+  font-family: Garamond;
 }
